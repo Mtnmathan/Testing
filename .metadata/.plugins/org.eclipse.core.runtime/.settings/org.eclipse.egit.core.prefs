@@ -1,3 +1,4 @@
-GitRepositoriesView.GitDirectories=C\:\\Users\\HP\\git\\MyPrac\\com.mathanartifact\\.git;
-GitRepositoriesView.GitDirectories.relative=com.mathanartifact\\.git;
+GitRepositoriesView.GitDirectories=C\:\\Users\\HP\\git\\MyPrac\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;
+RepositorySearchDialogSearchPath=C\:\\Users\\HP\\git\\MyPrac
 eclipse.preferences.version=1
