@@ -16,6 +16,7 @@ public class TheTut {
 	driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
 	String title = driver.getTitle();
 	System.out.println(title);
+	System.out.println("Edited in github")
 	driver.close();
 	driver.quit();
 	
